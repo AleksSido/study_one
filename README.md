@@ -3,5 +3,4 @@ Created for study purposes
 and for study process
 
 
-and etc etc etc
-1234
+final version
