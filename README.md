@@ -11,18 +11,7 @@ put act like a credit card field (with number formatting and length restriction)
 $('input.cc-num').payment('formatCardNumber');
 ```
 
-Then, when the payment form is submitted, you can validate the card number on the client-side:
-
-``` javascript
-var valid = $.payment.validateCardNumber($('input.cc-num').val());
-
-if (!valid) {
-  alert('Your card is not valid!');
-  return false;
-}
-```
-
-You can find a full [demo here](http://stripe.github.io/jquery.payment/example).
+Then, when the o here](http://stripe.github.io/jquery.payment/example).
 
 Supported card types are:
 
