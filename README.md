@@ -3,4 +3,4 @@ Created for study purposes
 and for study process
 
 
-and etc etc etc
+and et
