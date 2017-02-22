@@ -4,3 +4,4 @@ and for study process
 
 
 final version
+ changes for master branch
