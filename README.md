@@ -4,4 +4,9 @@ and for study process
 
 
 final version
+<<<<<<< HEAD
  changes for master branch
+=======
+
+changes for branch another
+>>>>>>> another
