@@ -10,3 +10,5 @@ final version
 
 changes for branch another
 >>>>>>> another
+
+changes for second branch
