@@ -12,3 +12,6 @@ changes for branch another
 >>>>>>> another
 
 changes for second branch
+
+
+test changes
